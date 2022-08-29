@@ -1,0 +1,12 @@
+Nombre del alumno que realiza la entrega: Carlos Javier Hellín Asensio
+
+
+Descripción de aquellos bloques a evaluar:
+Se han realizado todos los apartados obligatorios y opcionales de la práctica
+que incluye el simulador de gestión de memoria virtual (reemplazo aleatorio, 
+reemplazo LRU, reemplazo FIFO, reemplazo FIFO con segunda oportunidad y 
+reemplazo óptimo), además de comparar la evolución del conjunto de trabajo
+de varios algoritmos de ordenación con gnuplot.
+
+También se ha hecho la amplicación de la práctica 2 que consiste en implementar
+como política de reemplazo el algoritmo NFU (sim_pag_nfu.c)
